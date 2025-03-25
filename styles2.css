@@ -62,9 +62,8 @@ section {
   display: table;
   clear: both;
 
-/* make the images the right size */
-.wrap {
-    width: 512px;
-    height: 288px;
-    overflow: hidden;
+#video {
+  display: block;
+  margin: auto;
+  text-align: center;
 }
